@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "id": "tamedphantomsscream",
+  "version": "${version}",
+  "name": "Tamed Phantoms: Scream",
+  "description": "Phantoms cry in self-defense, in play, under a full moon, and from the spare scream key. An addon for Tamed Phantoms.",
+  "authors": ["Tamed Phantoms contributors"],
+  "contact": {
+    "homepage": "https://github.com/Nergan/tamedphantoms-scream-mod",
+    "issues": "https://github.com/Nergan/tamedphantoms-scream-mod/issues"
+  },
+  "license": "MPL-2.0",
+  "icon": "logo.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.tamedphantomsscream.mod.loader.fabric.TamedPhantomsScreamFabric"],
+    "client": ["com.tamedphantomsscream.mod.loader.fabric.TamedPhantomsScreamFabricClient"]
+  },
+  "mixins": [
+    "tamedphantomsscream.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.19.5",
+    "minecraft": "26.3",
+    "java": ">=25",
+    "fabric-api": "*",
+    "fabric-language-kotlin": ">=1.14.2+kotlin.2.4.21",
+    "tamedphantoms": ">=${tamedphantoms_version}"
+  },
+  "suggests": {
+    "modonomicon": "*"
+  }
+}

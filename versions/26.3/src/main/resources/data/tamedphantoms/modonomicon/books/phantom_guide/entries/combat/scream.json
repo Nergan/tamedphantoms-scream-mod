@@ -1,0 +1,16 @@
+{
+  "type": "modonomicon:content",
+  "id": "tamedphantoms:combat/scream",
+  "category": "tamedphantoms:combat",
+  "x": 0,
+  "y": 0,
+  "name": "tamedphantomsscream.guide.entry",
+  "icon": "tamedphantoms:tab_icon",
+  "sort_number": 2,
+  "pages": [
+    { "type": "modonomicon:text", "id": "p1", "title": "", "text": "tamedphantomsscream.guide.md.1" },
+    { "type": "modonomicon:text", "id": "p2", "title": "", "text": "tamedphantomsscream.guide.md.2" },
+    { "type": "modonomicon:text", "id": "p3", "title": "", "text": "tamedphantomsscream.guide.page.3" },
+    { "type": "modonomicon:text", "id": "p4", "title": "", "text": "tamedphantomsscream.guide.page.4" }
+  ]
+}
