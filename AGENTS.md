@@ -30,3 +30,7 @@
 ## Готово
 
 Из каталога аддона: `gradle build --stacktrace` (Gradle 8.11, JDK 21), затем `runClient` и `:fabric:runClient` до главного меню, `runServer` и `:fabric:runServer` до `Done`. То же в `versions/26.3` на Gradle 9.7.0 и JDK 25, сервер слушает `25567`. Складывание криков проверяет `PhantomScreamStackTest`.
+
+## Modrinth
+
+На Modrinth у каждой пары версии Minecraft и загрузчика одна версия: самая новая. Релиз снимает прежние версии этого слота и ставит на их место текущий jar.
