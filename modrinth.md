@@ -15,18 +15,18 @@ The addon is needed on the server and on every client. Radius, cooldown, and sta
 
 ## 1.21.1 NeoForge
 
-Required: `tamedphantomsscream-neoforge-1.21.1-1.0.0.jar`, Tamed Phantoms 1.0.32 or newer, and Kotlin for Forge 5.8.0 (`kotlinforforge-neoforge`). Optional: Patchouli `1.21.1-93-neoforge` for the guidebook entry.
+Required: `tamedphantomsscream-neoforge-1.21.1-1.0.1.jar`, Tamed Phantoms 1.0.32 or newer, and Kotlin for Forge 5.8.0 (`kotlinforforge-neoforge`). Optional: Patchouli `1.21.1-93-neoforge` for the guidebook entry.
 
 ## 1.21.1 Fabric
 
-Required: `tamedphantomsscream-fabric-1.21.1-1.0.0.jar`, Tamed Phantoms `1.0.32-fabric` or newer, Fabric API `0.116.17+1.21.1`, Fabric Language Kotlin `1.13.2+kotlin.2.1.20`, and Cloth Config `15.0.140` for Tamed Phantoms. Optional: Mod Menu 11.0.4 with Text Placeholder API for the Tamed Phantoms config screen, Patchouli `1.21.1-93-fabric` for the guidebook entry.
+Required: `tamedphantomsscream-fabric-1.21.1-1.0.1.jar`, Tamed Phantoms `1.0.32-fabric` or newer, Fabric API `0.116.17+1.21.1`, Fabric Language Kotlin `1.13.2+kotlin.2.1.20`, and Cloth Config `15.0.140` for Tamed Phantoms. Optional: Mod Menu 11.0.4 with Text Placeholder API for the Tamed Phantoms config screen, Patchouli `1.21.1-93-fabric` for the guidebook entry.
 
 ## 26.3 NeoForge
 
-Required: `tamedphantomsscream-neoforge-26.3-1.0.0.jar`, Tamed Phantoms `1.0.32+26.3` or newer, and Kotlin for Forge 6.4.0. Optional: Modonomicon `26.3-2.20.0` for the guidebook entry.
+Required: `tamedphantomsscream-neoforge-26.3-1.0.1.jar`, Tamed Phantoms `1.0.32+26.3` or newer, and Kotlin for Forge 6.4.0. Optional: Modonomicon `26.3-2.20.0` for the guidebook entry.
 
 ## 26.3 Fabric
 
-Required: `tamedphantomsscream-fabric-26.3-1.0.0.jar`, Tamed Phantoms `1.0.32+26.3-fabric` or newer, Fabric API `0.162.0+26.3`, Fabric Language Kotlin `1.14.2+kotlin.2.4.21`, and Cloth Config `26.3.159` for Tamed Phantoms. Optional: Mod Menu 21.0.0 with Text Placeholder API for the config screen, Modonomicon `26.3-2.20.0` for the guidebook entry.
+Required: `tamedphantomsscream-fabric-26.3-1.0.1.jar`, Tamed Phantoms `1.0.32+26.3-fabric` or newer, Fabric API `0.162.0+26.3`, Fabric Language Kotlin `1.14.2+kotlin.2.4.21`, and Cloth Config `26.3.159` for Tamed Phantoms. Optional: Mod Menu 21.0.0 with Text Placeholder API for the config screen, Modonomicon `26.3-2.20.0` for the guidebook entry.
 
 The source code and every release jar, with all the jars Tamed Phantoms needs, are on [GitHub](https://github.com/Nergan/tamedphantoms-scream-mod). License: MPL-2.0.

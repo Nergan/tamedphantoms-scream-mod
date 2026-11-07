@@ -27,7 +27,7 @@ Jar лежат на [GitHub Releases](https://github.com/Nergan/tamedphantoms-sc
 
 | Файл | Нужен | Что это |
 | --- | --- | --- |
-| `tamedphantomsscream-neoforge-1.21.1-1.0.0.jar` | Да | этот аддон |
+| `tamedphantomsscream-neoforge-1.21.1-1.0.1.jar` | Да | этот аддон |
 | `tamedphantoms-neoforge-1.21.1-1.0.32.jar` | Да | [Tamed Phantoms](https://github.com/Nergan/tamedphantoms-mod) 1.0.32 или новее |
 | `kotlinforforge-5.8.0-all.jar` | Да | [Kotlin for Forge](https://modrinth.com/mod/kotlin-for-forge) |
 | `Patchouli-1.21.1-93-NEOFORGE.jar` | Нет | [Patchouli](https://modrinth.com/mod/patchouli), только для книги |
@@ -36,7 +36,7 @@ Jar лежат на [GitHub Releases](https://github.com/Nergan/tamedphantoms-sc
 
 | Файл | Нужен | Что это |
 | --- | --- | --- |
-| `tamedphantomsscream-fabric-1.21.1-1.0.0.jar` | Да | этот аддон |
+| `tamedphantomsscream-fabric-1.21.1-1.0.1.jar` | Да | этот аддон |
 | `tamedphantoms-fabric-1.21.1-1.0.32.jar` | Да | [Tamed Phantoms](https://github.com/Nergan/tamedphantoms-mod) 1.0.32 или новее |
 | `fabric-api-0.116.17+1.21.1.jar` | Да | [Fabric API](https://modrinth.com/mod/fabric-api) |
 | `fabric-language-kotlin-1.13.2+kotlin.2.1.20.jar` | Да | [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin) |
@@ -49,7 +49,7 @@ Jar лежат на [GitHub Releases](https://github.com/Nergan/tamedphantoms-sc
 
 | Файл | Нужен | Что это |
 | --- | --- | --- |
-| `tamedphantomsscream-neoforge-26.3-1.0.0.jar` | Да | этот аддон |
+| `tamedphantomsscream-neoforge-26.3-1.0.1.jar` | Да | этот аддон |
 | `tamedphantoms-neoforge-26.3-1.0.32.jar` | Да | [Tamed Phantoms](https://github.com/Nergan/tamedphantoms-mod) 1.0.32 или новее |
 | `kotlinforforge-6.4.0-all.jar` | Да | [Kotlin for Forge](https://modrinth.com/mod/kotlin-for-forge) |
 | `modonomicon-26.3-neoforge-2.20.0.jar` | Нет | [Modonomicon](https://modrinth.com/mod/modonomicon), только для книги |
@@ -58,7 +58,7 @@ Jar лежат на [GitHub Releases](https://github.com/Nergan/tamedphantoms-sc
 
 | Файл | Нужен | Что это |
 | --- | --- | --- |
-| `tamedphantomsscream-fabric-26.3-1.0.0.jar` | Да | этот аддон |
+| `tamedphantomsscream-fabric-26.3-1.0.1.jar` | Да | этот аддон |
 | `tamedphantoms-fabric-26.3-1.0.32.jar` | Да | [Tamed Phantoms](https://github.com/Nergan/tamedphantoms-mod) 1.0.32 или новее |
 | `fabric-api-0.162.0+26.3.jar` | Да | [Fabric API](https://modrinth.com/mod/fabric-api) |
 | `fabric-language-kotlin-1.14.2+kotlin.2.4.21.jar` | Да | [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin) |
